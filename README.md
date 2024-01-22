@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Md. Delower Hossen Shuvo</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
-- 👨‍💻 All of my projects are available at [github.com/dev-shuvo?tab=repositories](github.com/dev-shuvo?tab=repositories)
+- 👨‍💻 All of my projects are available at [@dev-shuvo](https://github.com/dev-shuvo?tab=repositories)
 
 - 💬 Ask me about **Python and Django**
 
 - 📫 How to reach me **mdh_shuvo2003@outlook.com**
 
-- 📄 Know about my experiences [dev-shuvo.github.io](dev-shuvo.github.io)
+- 📄 Know about my experiences [dev-shuvo.github.io](https://dev-shuvo.github.io/)
 
 - ⚡ Fun fact **I'm a fast learner**
 
