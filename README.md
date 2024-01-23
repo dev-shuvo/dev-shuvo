@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Delower Hossen Shuvo</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+<h3 align="center">A passionate full-stack web developer from Bangladesh</h3>
 
 - 👨‍💻 All of my projects are available at [@dev-shuvo](https://github.com/dev-shuvo?tab=repositories)
 
@@ -13,7 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mdh_shuvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdh_shuvo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mdh-shuvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdh-shuvo" height="30" width="40" /></a>
 <a href="https://fb.com/delowerh.shuvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="delowerh.shuvo" height="30" width="40" /></a>
 </p>
